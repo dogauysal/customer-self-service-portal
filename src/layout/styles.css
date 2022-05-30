@@ -1,0 +1,44 @@
+.mainContainer {
+    width: 100%;
+    border: 2px solid #443f5d;
+}
+
+.searchBarContainer {
+    background-color: #443f5d;
+    padding: 15px 0;
+}
+
+.searchInput {
+    color: white;
+    background-color: #443f5d;
+    border: none;
+    border-bottom: 1px solid #787584;
+}
+
+.searchInput::placeholder {
+    color: #625e78;
+}
+
+.searchInput:focus {
+    outline:  none;
+}
+
+
+.searchIcon {
+    margin-right: 10px;
+    color: #625e78;
+}
+
+.contactRowUsername {
+    font-size: 30px;
+}
+
+.contactRowContainer {
+    padding: 0 10px;
+    border-bottom: 1px solid;
+    background-color: #f7f7f7;
+}
+
+.rowBgShadow {
+    background-color: #e8e8e8;
+}
