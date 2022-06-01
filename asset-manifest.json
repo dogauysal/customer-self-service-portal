@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customer-self-service-portal/static/css/main.74665c4a.css",
+    "main.js": "/customer-self-service-portal/static/js/main.261ab141.js",
+    "static/js/787.8f5ea1fd.chunk.js": "/customer-self-service-portal/static/js/787.8f5ea1fd.chunk.js",
+    "index.html": "/customer-self-service-portal/index.html",
+    "main.74665c4a.css.map": "/customer-self-service-portal/static/css/main.74665c4a.css.map",
+    "main.261ab141.js.map": "/customer-self-service-portal/static/js/main.261ab141.js.map",
+    "787.8f5ea1fd.chunk.js.map": "/customer-self-service-portal/static/js/787.8f5ea1fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74665c4a.css",
+    "static/js/main.261ab141.js"
+  ]
+}
