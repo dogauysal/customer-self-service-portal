@@ -19,7 +19,7 @@ npm start
 
 TO VISIT APP:
 
-localhost:3000
+localhost:3000 or
 https://dogauysal.github.io/customer-self-service-portal/
 
 Type any word or number to start searching random people in the company
