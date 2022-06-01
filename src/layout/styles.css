@@ -42,3 +42,8 @@
 .rowBgShadow {
     background-color: #e8e8e8;
 }
+@media only screen and (max-width: 576px) {
+    .contactRowContainer {
+        text-align: center;
+    }
+  }

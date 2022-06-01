@@ -19,13 +19,13 @@ const ContactRow: React.FC<IProps> = ({
                 </Col>
             </Row>
             <Row>
-                <Col sm={2}>
+                <Col sm={6} md={2}>
                     <label>{User.phone}</label>
                 </Col>
-                <Col sm={4}>
+                <Col sm={6} md={4}>
                     <label>{User.email}</label>
                 </Col>
-                <Col sm={6}>
+                <Col sm={12} md={6}>
                     <label>Policy No:  {User.ssn}</label>
                 </Col>
             </Row>

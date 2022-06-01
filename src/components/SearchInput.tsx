@@ -13,10 +13,10 @@ const SearchInput: React.FC<IProps> = ({
     return (
         <>
             <Row>
-                <Col sm="12">
+                <Col xs={12}>
                     <Search className="searchIcon fs-4" />
                     <input
-                        className="searchInput  col-sm-10"
+                        className="searchInput col-10"
                         placeholder={placeholder}
                         onChange={(e) => onTextChange(e.target.value)}
                     />

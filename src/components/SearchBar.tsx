@@ -13,13 +13,13 @@ const SearchBar: React.FC<IProps> = ({
             <Container>
                 <div>
                     <Row>
-                        <Col sm={8}>
+                        <Col xs={12} md={8}>
                             <SearchInput
                                 onTextChange={onTextChange}
                                 placeholder="SEARCH (Client Name / Policy Number)"
                             />
                         </Col>
-                        <Col sm={4}></Col>
+                        <Col xs={0} md={4}></Col>
                     </Row>
                 </div>
             </Container>
